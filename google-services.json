@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1003479399446",
+    "firebase_url": "https://letschatt-c4057.firebaseio.com",
+    "project_id": "letschatt-c4057",
+    "storage_bucket": "letschatt-c4057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003479399446:android:3d91b25c5461db67",
+        "android_client_info": {
+          "package_name": "com.example.shiraz.letschatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003479399446-fqboe0mden92kppfdppovd6lh53uurhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiraz.letschatt",
+            "certificate_hash": "8c258114667fbc8056de79b2cb40105f690ece0d"
+          }
+        },
+        {
+          "client_id": "1003479399446-l903ioi0l5o2gpek2h8bdhm7ddn5283l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKK2BnnvUHQAkVbsnFrr-DqzrzgD-3kM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003479399446-l903ioi0l5o2gpek2h8bdhm7ddn5283l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
