@@ -1,2 +1,2 @@
 # AndroidChatApp-Firebase
-Android Chat and Messaging App Using Firebase
+Android Chat and Messaging App Using FCM Firebase
